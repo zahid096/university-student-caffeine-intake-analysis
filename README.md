@@ -5,14 +5,14 @@ Excel-based socio-demographic and psychological data analysis of university stud
 ---
 
 ## 📖 Table of Contents
-- [Dataset](#-Dataset)
-- [Tools Used](#-Tools-Used)  
-- [What I Did](#-What-I-Did)
-- [Key Insights](#-Key-Insights)
-- [Project Structure](#-Project-Structure)
-- [Skills Demonstrated](#-Skills-Demonstrated)
-- [Author](#-Author)
-- [License](#-License)
+- [Dataset](#dataset)
+- [Tools Used](#tools-used)  
+- [What I Did](#what-i-did)
+- [Key Insights](#key-insights)
+- [Project Structure](#project-structure)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Author](#author)
+- [License](#license)
 
 ---
 
